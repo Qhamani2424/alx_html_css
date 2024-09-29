@@ -1,0 +1,248 @@
+*{
+   margin:0%;
+   padding:0%;
+}
+header{
+   background-color: transparent;
+   overflow: visible;
+}
+nav{
+   display:flex;
+}
+#logo{
+   width: 167.02px;
+   height: 29.46px;
+   margin-left:100px;
+}
+#menu{
+   display: flex;
+   height: 15px;
+   margin-left:auto;
+   margin-top: 0px;
+   list-style-type: none;
+   margin-right: 67px;
+}
+#menu li a {
+   padding-left: 25px;
+   color: aliceblue;
+   text-decoration: none;
+}
+#head-hero-container{
+   background-image:url(images/Object.png);
+   background-size: cover;
+   background-position-y:-20px ;
+   overflow: visible;
+   height: 1235px; 
+   color: aliceblue;
+   background-repeat: no-repeat;
+}
+main{
+   background: transparent;
+}
+#hero{
+   text-align: center;
+}
+#testimonials{
+display:flex;
+margin-left: 287px;
+margin-right: 110px;
+margin-top: 215px;
+position:relative;
+gap:80px
+}
+h1{
+   font-size: 150px;
+   margin-top: 280px;
+   font-family: 'Arial';
+   font-weight: bold;
+}
+button{
+   margin-top:80px;
+   background-color:rgb(231, 120, 231);
+   color:aliceblue;
+   border-radius: 19px;
+   padding: 10px;
+}
+#pros{
+   margin-top: 110px;
+   margin-left: 100px;
+   height: auto;
+   font-size: 15px;
+}
+.head{
+   font-size: 25px;
+   gap: 170px;
+   word-spacing: 40px;
+}
+.container{
+   padding-left: 380px;
+   display:flex;
+   align-items:center;
+   background-color: purple;
+   color:aliceblue;
+
+}
+#smile{
+   margin-right: 10%;
+}
+#container{
+   display: flex;
+   margin-top:29px;
+   color:purple;
+   margin-left:12%;
+}
+h3{
+   color:black
+}
+p{
+   color:black;
+}
+#phillip-text{
+   transform: rotate(deg);
+   margin-left:35%;
+   margin-bottom: 7px;
+   left:90px;
+   top: 100px;
+}
+#free-membership-section{
+   background-color: black;
+   height: 45vh;
+   padding: 38px;
+}
+#content{
+   color:aliceblue;
+   display:flex;
+   justify-content: center;
+}
+#content div{
+   margin:28px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 150px;
+}
+#content div p{
+   text-align: center;
+}
+.tutorials{
+   text-align: center;
+   font-family:  Arial, sans-serif;
+   font-weight:300;
+}
+#membership .tutorials{
+   color: aliceblue;
+}
+p{
+   color:aliceblue;
+}
+.highlight{
+   color:#cf78cc;
+}
+.color{
+   color:#cf78cc;
+}
+.free{
+   color: #cf78cc;
+}
+#myFAQ{
+   text-align: center;
+   font-size: 289%;
+   font-family:Arial, sans-serif;
+   font-weight: 10;
+}
+#button2{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+#end{
+   background-color: black;
+}
+#media{
+   margin-left: 90%;
+}
+.faq-items{
+   margin-bottom: 30px;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   margin:99px;
+   font-size: 23px;
+}
+#faq-color{
+   color: black;
+}
+#smile-color{
+   color: black;
+}
+.resize{
+   height: 30px;
+}
+#play{
+   position:absolute;
+   top: 50%;
+   left: 50%;
+   width: 50px;
+   transform: translate(-50%, -50%);
+}
+.pic{
+   position: relative;
+
+}
+#person{
+   color:aliceblue;
+   padding-top: 20px;
+   padding-bottom: 10px;
+}
+#batman{
+   border-radius: 50%;
+}
+.names{
+   color:aliceblue
+}
+.ratings{
+   display: flex;
+   align-items:center;
+}
+.topic{
+   color: aliceblue;
+}
+.time{
+   color: black;
+}
+.rating{
+display:flex;
+}
+.star-rating{
+   display: flex;
+
+}
+.minutes{
+   margin-left: 130px;
+}
+#year{
+   color:#6b676b;
+   text-align: center;
+}
+.end-socials{
+   margin-left: auto;
+   word-spacing: 10px;
+
+}
+.socials-end{
+   display: flex;
+   padding:80px;
+   width: 1000px;
+   margin:auto;
+}
+.end-socials i{
+   background-color:white ;
+   border-radius: 50px;
+   padding: 3px;
+}
+.d-smile{
+   width: 350px;
+}
+.pic img{
+   width: 90%;
+}
